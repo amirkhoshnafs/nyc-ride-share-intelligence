@@ -4,7 +4,8 @@
 
 An end-to-end analytics engineering and executive reporting project built around **39,023,078 New York City high-volume for-hire vehicle trips** from **January–February 2024**. The project covers data preparation, semantic-model design, business measures, performance optimization, and a five-page interactive Power BI report.
 
-[**⬇ Download the full Power BI Desktop report (.pbix) — Google Drive**](https://drive.google.com/file/d/1Y7_OIB0NW94KsAh9aA6Ox2pxD_lqMl1T/view?usp=sharing) · [Report source definitions](powerbi/) · [Engineering documentation](docs/) · [Official NYC TLC source data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+[*⬇ Download the full Power BI Desktop report (.pbix) — Google Drive**](https://drive.google.com/file/d/1Y7_OIB0NW94KsAh9aA6Ox2pxD_lqMl1T/view?usp=sharing)
+[Report source definitions](powerbi/) · [Engineering documentation](docs/) · [Official NYC TLC source data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 > **Image provenance:** The five images below are **schematic page-layout previews reconstructed from the Power BI report definition**. They illustrate the real page structure, but their chart shapes and the text `Live KPI` are placeholders—not exported dashboard data or verified screenshots. Actual query results are shown in the **verified benchmarks** section. Replace these previews with Power BI Desktop screenshots before claiming that the images display live results. The working Desktop report is available through the Google Drive link above.
 
