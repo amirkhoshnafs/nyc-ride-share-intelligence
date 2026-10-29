@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "ubers latest september 2"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4554419f-7863-4a98-9833-decdd13a6cbf"
+  }
+}

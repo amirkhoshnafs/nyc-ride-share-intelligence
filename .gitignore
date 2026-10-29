@@ -1,0 +1,23 @@
+# Local Power BI caches and working state
+**/.pbi/
+**/cache.abf
+**/localSettings.json
+**/unappliedChanges.json
+
+# Large local imports and downloadable Desktop files
+*.pbix
+*.parquet
+*.zip
+*.csv
+*.pbit
+*.bak
+
+# Personal files, secrets and OS noise
+.env
+.env.*
+!.env.example
+**/credentials.json
+**/secrets.json
+__pycache__/
+.DS_Store
+Thumbs.db
